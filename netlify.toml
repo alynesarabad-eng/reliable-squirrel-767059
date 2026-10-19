@@ -1,0 +1,23 @@
+[build]
+  publish = "."
+  functions = "netlify/functions"
+
+# Crawler edge rewrite for Facebook, Twitter, WhatsApp, LinkedIn sharing bots
+[[redirects]]
+  from = "/news/:slug"
+  to = "/.netlify/functions/og-meta?slug=:slug"
+  status = 200
+  conditions = {UserAgent = ["*facebookexternalhit*", "*Facebot*", "*Twitterbot*", "*LinkedInBot*", "*WhatsApp*"]}
+
+# Single Page Application (SPA) redirect rule
+[[redirects]]
+  from = "/*"
+  to = "/index.html"
+  status = 200
+
+[[headers]]
+  for = "/*"
+  [headers.values]
+    X-Frame-Options = "SAMEORIGIN"
+    X-Content-Type-Options = "nosniff"
+    Referrer-Policy = "no-referrer-when-downgrade"

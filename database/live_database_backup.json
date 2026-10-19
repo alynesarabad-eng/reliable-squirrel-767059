@@ -1,0 +1,668 @@
+{
+  "app": "WVN News",
+  "version": "1.0.0",
+  "exported_at": "2026-10-18T16:55:04.608Z",
+  "counts": {
+    "articles": 8,
+    "categories": 13,
+    "authors": 3,
+    "breaking_news": 3,
+    "advertisements": 7,
+    "media": 4,
+    "logs": 3
+  },
+  "data": {
+    "articles": [
+      {
+        "id": "art_1",
+        "title": "ঢাকা নগরীর স্মার্ট যোগাযোগ নেটওয়ার্ক সম্প্রসারণ: নতুন এক্সপ্রেসওয়ে ও মেট্রোরেল করিডোর অনুমোদন",
+        "slug": "dhaka-smart-transit-network-metro-expressway-corridor-expansion",
+        "subheadline": "যানজট নিরসনে নতুন সমন্বিত পরিবহন মহাপরিকল্পনা চূড়ান্ত",
+        "category_id": "cat_national",
+        "author_id": "auth_1",
+        "excerpt": "রাজধানীর ক্রমবর্ধমান যানজট নিরসনে নতুন সমন্বিত যোগাযোগ মহাপরিকল্পনা চূড়ান্ত করেছে সরকার। আধুনিক সিগন্যালিং ব্যবস্থা ও বিকল্প রুটে সময় বাঁচবে অর্ধেকের বেশি।",
+        "content": "রাজধানী ঢাকার পরিবহন ব্যবস্থাকে আধুনিক ও পরিবেশবান্ধব করতে নতুন সমন্বিত যোগাযোগ মহাপরিকল্পনা অনুমোদন করেছে সরকার। এতে নতুন দ্রুতগতির এক্সপ্রেসওয়ে সংযুক্তি এবং বর্ধিত মেট্রোরেল করিডোর বাস্তবায়নের নির্দেশনা দেওয়া হয়েছে।\n\nযোগাযোগ বিশেষজ্ঞদের মতে, এই মহাপরিকল্পনা বাস্তবায়িত হলে দৈনিক প্রায় ২০ লাখ কর্মঘণ্টা সাশ্রয় হবে এবং বছরে সাশ্রয় হবে শত কোটি টাকার জ্বালানি খরচ। প্রকল্প তদারকিতে সার্বক্ষণিক ডিজিটাল ট্রাফিক মনিটরিং সেন্টার স্থাপন করা হবে।\n\n> \"একটি আধুনিক মেগাসিটির মূল চালিকাশক্তি তার কার্যকর গণপরিবহন। এই করিডোর ঢাকার পূর্বাঞ্চল ও পশ্চিমাঞ্চলের মধ্যে দূরত্ব কমিয়ে আনবে।\" — পরিবহন পরিকল্পনা সচিব\n\nপ্রকল্পের আওতায় প্রধান প্রধান জংশনগুলোতে ফ্লাইওভারের পাশাপাশি আধুনিক পেডেস্ট্রিয়ান আন্ডারপাস এবং সাইকেল লেন সংযুক্ত করা হবে। আগামী মাস থেকেই প্রাথমিক সমীক্ষার কাজ শুরু হবে বলে সংশ্লিষ্ট কর্তৃপক্ষ জানিয়েছে। পরিবেশগত প্রভাব বিবেচনায় রেখে পুরো করিডোরে সৌরবিদ্যুৎ চালিত এলইডি বাতি এবং গ্রিন বেল্ট তৈরি করা হবে।",
+        "featured_image": "/src/assets/images/wvn_news_hero_bangladesh_1792380945436.jpg",
+        "image_caption": "ঢাকার আধুনিক যোগাযোগ অবকাঠামো ও এক্সপ্রেসওয়ে নেটওয়ার্ক। ছবি: ডব্লিউভিএন নিউজ",
+        "image_alt": "ঢাকা এলিভেটেড এক্সপ্রেসওয়ে এবং মেট্রোরেল যোগাযোগ ব্যবস্থা",
+        "tags": [
+          "যোগাযোগ",
+          "ঢাকা",
+          "মেট্রোরেল",
+          "অবকাঠামো",
+          "জাতীয়"
+        ],
+        "status": "published",
+        "is_featured": true,
+        "is_breaking": true,
+        "view_count": 14820,
+        "published_at": "2026-10-18T15:35:27.776Z",
+        "updated_at": "2026-10-18T16:05:27.776Z",
+        "created_at": "2026-10-18T14:20:27.776Z",
+        "seo_title": "ঢাকা নগরীর স্মার্ট যোগাযোগ নেটওয়ার্ক সম্প্রসারণ | WVN News",
+        "seo_description": "রাজধানীর যানজট নিরসনে নতুন সমন্বিত যোগাযোগ মহাপরিকল্পনা চূড়ান্ত করেছে সরকার। জানুন বিস্তারিত।"
+      },
+      {
+        "id": "art_2",
+        "title": "জাতীয় সংসদে অর্থনৈতিক স্থিতিশীলতা ও সবুজ জ্বালানি বিনিয়োগ বিল উত্থাপন",
+        "slug": "parliament-session-economic-stability-green-energy-investment-bill",
+        "subheadline": "রপ্তানিমুখী শিল্পে শুল্ক ছাড় ও বিকল্প জ্বালানিতে প্রণোদনা প্রস্তাব",
+        "category_id": "cat_politics",
+        "author_id": "auth_2",
+        "excerpt": "সংসদে অর্থনৈতিক স্থিতিশীলতা বজায় রাখা ও নবায়নযোগ্য জ্বালানি বিনিয়োগে বিশেষ প্রণোদনা সংক্রান্ত নতুন রূপরেখা তুলে ধরা হলো। প্রস্তাবিত বিলটি স্থায়ী কমিটিতে পাঠানো হয়েছে।",
+        "content": "জাতীয় সংসদের চলতি অধিবেশনে অর্থনৈতিক রূপান্তর ত্বরান্বিত করতে এবং শিল্পকারখানায় নবায়নযোগ্য জ্বালানির ব্যবহার বাড়াতে একটি যুগান্তকারী বিল উত্থাপন করা হয়েছে।\n\nবিলের মূল প্রস্তাবে বলা হয়েছে, যেসব তৈরি পোশাক ও ভারী শিল্প কারখানা তাদের মোট বিদ্যুৎ চাহিদার অন্তত ৩০ শতাংশ সৌর বা বায়ু বিদ্যুৎ থেকে নিশ্চিত করবে, তারা আগামী পাঁচ বছরের জন্য কর রেয়াত সুবিধা পাবে।\n\nঅর্থমন্ত্রী বিলটি উত্থাপন করে বলেন, আন্তর্জাতিক বাজারে প্রতিযোগী সক্ষমতা ধরে রাখতে গ্রিন ট্রানজিশনের বিকল্প নেই। সংসদীয় স্থায়ী কমিটির পর্যালোচনার পর আগামী সপ্তাহে বিলটি পাসের জন্য চূড়ান্ত আলোচনার সূচিতে রাখা হবে।",
+        "featured_image": "/src/assets/images/wvn_news_politics_dhaka_1792380945787.jpg",
+        "image_caption": "জাতীয় সংসদ ভবন। ছবি: ডব্লিউভিএন নিউজ আর্কাইভ",
+        "image_alt": "বাংলাদেশ জাতীয় সংসদ ভবন",
+        "tags": [
+          "জাতীয় সংসদ",
+          "রাজনীতি",
+          "সবুজ জ্বালানি",
+          "অর্থনীতি"
+        ],
+        "status": "published",
+        "is_featured": true,
+        "is_breaking": false,
+        "view_count": 8940,
+        "published_at": "2026-10-18T14:30:27.776Z",
+        "updated_at": "2026-10-18T15:40:27.776Z",
+        "created_at": "2026-10-18T13:20:27.776Z",
+        "seo_title": "জাতীয় সংসদে সবুজ জ্বালানি বিল উত্থাপন | WVN News",
+        "seo_description": "শিল্পকারখানায় নবায়নযোগ্য জ্বালানি ব্যবহার বাড়াতে সংসদে নতুন যুগান্তকারী বিল উত্থাপন।"
+      },
+      {
+        "id": "art_3",
+        "title": "মিরপুরে শ্বাসরুদ্ধকর শেষ ওভারে ঐতিহাসিক জয়: টি-টোয়েন্টি সিরিজ নিজেদের করল বাংলাদেশ",
+        "slug": "bangladesh-historic-t20-series-win-mirpur-stadium",
+        "subheadline": "শেষ বলের থ্রিলারে চার উইকেটের জয় ছিনিয়ে নিল টাইগাররা",
+        "category_id": "cat_sports",
+        "author_id": "auth_3",
+        "excerpt": "শের-ই-বাংলা জাতীয় ক্রিকেট স্টেডিয়ামে বিপুল দর্শকের উপস্থিতিতে চার উইকেটের রোমাঞ্চকর জয় ছিনিয়ে আনল টাইগাররা। ম্যান অব দ্য ম্যাচ নির্বাচিত হয়েছেন অলরাউন্ডার সাকিব।",
+        "content": "মিরপুর শের-ই-বাংলা জাতীয় ক্রিকেট স্টেডিয়ামে টানটান উত্তেজনার ম্যাচে সফরকারী দলকে হারিয়ে তিন ম্যাচ টি-টোয়েন্টি সিরিজ ২-১ ব্যবধানে জিতে নিল বাংলাদেশ দল।\n\nজয়ের জন্য শেষ ওভারে প্রয়োজন ছিল ১২ রান। দুর্দান্ত ব্যাটিং প্রদর্শন করে পঞ্চম বলে ছক্কা হাঁকিয়ে দলকে জয়ের বন্দরে পৌঁছে দেন তরুণ ফিনিশার। গ্যালারিতে উপস্থিত পঁচিশ হাজার দর্শক লাল-সবুজের উল্লাসে মেতে ওঠেন।\n\nসংবাদ সম্মেলনে অধিনায়ক বলেন, \"দলগত বিশ্বাস এবং চাপের মুখে মাথা ঠান্ডা রাখার কারণেই আজ এই অবিস্মরণীয় জয় সম্ভব হয়েছে। এই আত্মবিশ্বাস আগামী বিশ্বকাপে দলের জন্য বিশাল অনুপ্রেরণা হবে।\"",
+        "featured_image": "/src/assets/images/wvn_news_cricket_sports_1792380946607.jpg",
+        "image_caption": "মিরপুর স্টেডিয়ামে ঐতিহাসিক জয়ের মুহূর্ত। ছবি: ডব্লিউভিএন নিউজ স্পোর্টস",
+        "image_alt": "মিরপুর স্টেডিয়ামে ক্রিকেট খেলা ও উদযাপন",
+        "tags": [
+          "ক্রিকেট",
+          "বাংলাদেশ ক্রিকেট",
+          "টি-টোয়েন্টি",
+          "মিরপুর",
+          "খেলাধুলা"
+        ],
+        "status": "published",
+        "is_featured": true,
+        "is_breaking": false,
+        "view_count": 22400,
+        "published_at": "2026-10-18T13:40:27.776Z",
+        "updated_at": "2026-10-18T15:50:27.776Z",
+        "created_at": "2026-10-18T13:00:27.776Z",
+        "seo_title": "মিরপুরে ঐতিহাসিক টি-টোয়েন্টি সিরিজ জয় বাংলাদেশের | WVN News",
+        "seo_description": "রোমাঞ্চকর শেষ ওভারে চার উইকেটের জয় দিয়ে সিরিজ নিজেদের করে নিল বাংলাদেশ ক্রিকেট দল।"
+      },
+      {
+        "id": "art_4",
+        "title": "বাংলাদেশের সফটওয়্যার রফতানিতে নতুন রেকর্ড: আইটি স্টার্টআপে বৈশ্বিক বিনিয়োগ বৃদ্ধি",
+        "slug": "bangladesh-software-export-record-high-global-vc-investment",
+        "subheadline": "ফিনটেক ও এআই সলিউশনে আন্তর্জাতিক বাজারে দেশীয় প্রকৌশলীদের সুনাম",
+        "category_id": "cat_technology",
+        "author_id": "auth_3",
+        "excerpt": "কৃত্রিম বুদ্ধিমত্তা ও ক্লাউড সেবায় বাংলাদেশি ডেভেলপারদের দক্ষতা আন্তর্জাতিক বাজারে নতুন সম্ভাবনার দ্বার উন্মোচন করেছে। চলতি অর্থবছরে রপ্তানি প্রবৃদ্ধি ছাড়িয়েছে ১৮ শতাংশ।",
+        "content": "বাংলাদেশ অ্যাসোসিয়েশন অব সফটওয়্যার অ্যান্ড ইনফরমেশন সার্ভিসেস (বেসিস) প্রকাশিত সর্বশেষ তথ্যমতে, চলতি অর্থবছরের প্রথম ছয় মাসে দেশের তথ্যপ্রযুক্তি খাতের রফতানি আয় অতীতের সব রেকর্ড অতিক্রম করেছে।\n\nবিশেষ করে স্বাস্থ্যসেবা, লজিস্টিকস এবং আর্থিক প্রযুক্তিতে কৃত্রিম বুদ্ধিমত্তা-ভিত্তিক দেশীয় সফটওয়্যারের চাহিদা উত্তর আমেরিকা এবং ইউরোপের বাজারে অভাবনীয় বৃদ্ধি পেয়েছে। শীর্ষস্থানীয় বেশ কয়েকটি দেশীয় ভেঞ্চার ফান্ডে যুক্ত হয়েছে সিলিকন ভ্যালির বিনিয়োগকারীরা।\n\nপ্রযুক্তি বিশেষজ্ঞদের মতে, তরুণদের ফ্রিল্যান্সিং থেকে নিজস্ব স্কেলেবল পণ্য তৈরিতে উৎসাহ প্রদান এবং সরকারি হাইটেক পার্কগুলোর প্রণোদনা এ খাতকে দ্রুত এগিয়ে নিচ্ছে।",
+        "featured_image": "/src/assets/images/wvn_news_tech_bangladesh_1792380946343.jpg",
+        "image_caption": "ঢাকার আধুনিক প্রযুক্তি গবেষণাগারে সফটওয়্যার প্রকৌশলীরা। ছবি: ডব্লিউভিএন নিউজ",
+        "image_alt": "বাংলাদেশের সফটওয়্যার ইঞ্জিনিয়ার ও আইটি পেশাজীবী দল",
+        "tags": [
+          "প্রযুক্তি",
+          "সফটওয়্যার",
+          "রফতানি",
+          "স্টার্টআপ",
+          "অর্থনীতি"
+        ],
+        "status": "published",
+        "is_featured": false,
+        "is_breaking": false,
+        "view_count": 11200,
+        "published_at": "2026-10-18T12:40:27.776Z",
+        "updated_at": "2026-10-18T14:50:27.776Z",
+        "created_at": "2026-10-18T12:20:27.776Z",
+        "seo_title": "সফটওয়্যার রফতানিতে নতুন মাইলফলক বাংলাদেশ | WVN News",
+        "seo_description": "আন্তর্জাতিক বাজারে বাংলাদেশি তথ্যপ্রযুক্তি সেবার রেকর্ড প্রবৃদ্ধি ও বিনিয়োগ।"
+      },
+      {
+        "id": "art_5",
+        "title": "বিশ্ববাজারে অপরিশোধিত জ্বালানি তেলের মূল্যহ্রাস: দেশে অভ্যন্তরীণ মূল্য সমন্বয়ের ইঙ্গিত",
+        "slug": "global-crude-oil-price-drop-domestic-price-adjustment-signal",
+        "subheadline": "আন্তর্জাতিক বাজারে ব্যারেলপ্রতি দর নেমেছে ৭২ ডলারে",
+        "category_id": "cat_economy",
+        "author_id": "auth_1",
+        "excerpt": "বৈশ্বিক সরবরাহ বৃদ্ধি এবং মার্কিন রিজার্ভ অবমুক্তির খবরে বিশ্ববাজারে জ্বালানি তেলের দাম নিম্নমুখী। দেশের ভোক্তা পর্যায়েও এর ইতিবাচক প্রভাবের পূর্বাভাস দিয়েছে জ্বালানি মন্ত্রণালয়।",
+        "content": "আন্তর্জাতিক বাজারে অপরিশোধিত জ্বালানি তেলের মূল্যে উল্লেখযোগ্য দরপতন ঘটেছে। গত তিন মাসের মধ্যে ব্রেন্ট ক্রুডের মূল্য সর্বনিম্ন স্তরে পৌঁছেছে।\n\nবাংলাদেশ পেট্রোলিয়াম কর্পোরেশন (বিপিসি) সূত্রে জানা গেছে, বর্তমান স্বয়ংক্রিয় মূল্য নির্ধারণ ফর্মুলার আওতায় পরবর্তী মাসে ভোক্তা পর্যায়ে ডিজেল ও অকটেনের দাম কমানোর বিবেচনা চলছে। এতে কৃষি সেচ এবং পণ্য পরিবহন ব্যয়ে স্বস্তি মিলবে বলে মনে করছেন অর্থনীতিবিদরা।",
+        "featured_image": "https://images.unsplash.com/photo-1518709268805-4e9042af9f23?w=800&auto=format&fit=crop&q=80",
+        "image_caption": "জ্বালানি তেল শোধনাগার ও বৈশ্বিক পাইপলাইন সরবরাহ। ছবি: রয়টার্স",
+        "image_alt": "তেল শোধনাগার ও জ্বালানি টার্মিনাল",
+        "tags": [
+          "অর্থনীতি",
+          "জ্বালানি তেল",
+          "বাজার দর",
+          "মুদ্রাস্ফীতি"
+        ],
+        "status": "published",
+        "is_featured": false,
+        "is_breaking": false,
+        "view_count": 6730,
+        "published_at": "2026-10-18T11:40:27.776Z",
+        "updated_at": "2026-10-18T15:20:27.776Z",
+        "created_at": "2026-10-18T11:20:27.776Z",
+        "seo_title": "বিশ্ববাজারে জ্বালানি তেলের দরপতন ও অভ্যন্তরীণ প্রভাব | WVN News",
+        "seo_description": "আন্তর্জাতিক বাজারে তেলের দরপতনের সুফল পেতে পারে দেশীয় কৃষি ও পরিবহন খাত।"
+      },
+      {
+        "id": "art_6",
+        "title": "জাতিসংঘ জলবায়ু সম্মেলনে উন্নয়নশীল দেশগুলোর জন্য ক্ষতিপূরণ তহবিলে ঐতিহাসিক ঐকমত্য",
+        "slug": "un-climate-summit-loss-and-damage-fund-historic-agreement",
+        "subheadline": "জলবায়ু ঝুঁকিপূর্ণ দ্বীপ ও উপকূলীয় রাষ্ট্রসমূহের দীর্ঘদিনের দাবির স্বীকৃতি",
+        "category_id": "cat_international",
+        "author_id": "auth_2",
+        "excerpt": "জলবায়ু পরিবর্তনের ক্ষতিকর প্রভাব মোকাবিলায় প্রতিষ্ঠিত লস অ্যান্ড ড্যামেজ ফান্ডে শত কোটি ডলারের অনুদান অঙ্গীকার করেছে উন্নত রাষ্ট্রগুলো। বাংলাদেশের পক্ষ থেকে জোরালো ভূমিকা পালন করা হয়।",
+        "content": "জাতিসংঘের বিশ্ব জলবায়ু শীর্ষ সম্মেলনে উন্নয়নশীল এবং উপকূলীয় দেশগুলোর ক্ষয়ক্ষতি পূরণে জরুরি অর্থায়ন ব্যবস্থার ওপর সর্বসম্মত চুক্তি স্বাক্ষরিত হয়েছে।\n\nসম্মেলনে অংশ নেওয়া বাংলাদেশের প্রতিনিধিদলের প্রধান জানান, সমুদ্রপৃষ্ঠের উচ্চতা বৃদ্ধি ও বন্যাপ্রবণ এলাকার দুর্যোগ প্রতিরোধ ব্যবস্থার আধুনিকায়নে এই ফান্ড থেকে অগ্রাধিকার ভিত্তিতে অনুদান বরাদ্দ পাওয়া যাবে। এই সিদ্ধান্তকে বৈশ্বিক জলবায়ু ন্যায়বিচারের জন্য একটি স্মরণীয় বিজয় হিসেবে অভিহিত করেছে আন্তর্জাতিক পরিবেশবাদী সংগঠনগুলো।",
+        "featured_image": "https://images.unsplash.com/photo-1618042164219-62c820f10723?w=800&auto=format&fit=crop&q=80",
+        "image_caption": "জাতিসংঘ জলবায়ু সম্মেলন কক্ষ। ছবি: ইউএন প্রেস",
+        "image_alt": "জাতিসংঘ জলবায়ু আলোচনা কক্ষ",
+        "tags": [
+          "আন্তর্জাতিক",
+          "জলবায়ু পরিবর্তন",
+          "জাতিসংঘ",
+          "পরিবেশ"
+        ],
+        "status": "published",
+        "is_featured": false,
+        "is_breaking": false,
+        "view_count": 7420,
+        "published_at": "2026-10-18T10:40:27.776Z",
+        "updated_at": "2026-10-18T15:10:27.776Z",
+        "created_at": "2026-10-18T10:20:27.776Z",
+        "seo_title": "জলবায়ু সম্মেলনে ঐতিহাসিক ক্ষতিপূরণ তহবিল কার্যকর | WVN News",
+        "seo_description": "উপকূলীয় রাষ্ট্রের জন্য জরুরি ক্ষতিপূরণ তহবিলে উন্নত বিশ্বের অঙ্গীকার।"
+      },
+      {
+        "id": "art_7",
+        "title": "জাতীয় শিক্ষাক্রমের আধুনিকায়ন: প্রযুক্তি ও প্রায়োগিক দক্ষতায় বিশেষ গুরুত্ব",
+        "slug": "national-curriculum-modernization-stem-practical-skills",
+        "subheadline": "আগামী শিক্ষাবর্ষ থেকে নতুন পাঠ্যক্রমে কোডিং ও রোবোটিক্স ওয়ার্কশপ বাধ্যতামূলক",
+        "category_id": "cat_education",
+        "author_id": "auth_1",
+        "excerpt": "মাধ্যমিক স্তরে তত্ত্বীয় মুখস্থবিদ্যার চেয়ে প্রবলেম সলভিং এবং প্রায়োগিক উদ্ভাবনী প্রকল্প তৈরিতে জোর দিচ্ছে শিক্ষা মন্ত্রণালয়। শিক্ষকদের জন্য দেশজুড়ে প্রশিক্ষণ ক্যাম্প শুরু।",
+        "content": "শিক্ষার্থীদের চতুর্থ শিল্পবিপ্লবের উপযোগী যোগ্য নাগরিক হিসেবে গড়ে তুলতে শিক্ষাক্রমে আমূল সংস্কারের ঘোষণা দিয়েছে শিক্ষা মন্ত্রণালয়।\n\nনতুন কাঠামোয় ষষ্ঠ থেকে দশম শ্রেণি পর্যন্ত বিজ্ঞান ও প্রযুক্তির পাশাপাশি মানবিক মূল্যবোধ ও দলগত প্রজেক্টভিত্তিক মূল্যায়ন ব্যবস্থা অন্তর্ভুক্ত হচ্ছে। দেশের প্রতিটি সরকারি বিদ্যালয়ে আধুনিক কম্পিউটার ল্যাব স্থাপনের গতি বাড়ানো হয়েছে।",
+        "featured_image": "https://images.unsplash.com/photo-1509062522246-3755977927d7?w=800&auto=format&fit=crop&q=80",
+        "image_caption": "শ্রেণিকক্ষে শিক্ষার্থীদের ব্যবহারিক বিজ্ঞান শিক্ষা। ছবি: সংগৃহীত",
+        "image_alt": "শ্রেণিকক্ষে শিক্ষার্থী ও ল্যাব",
+        "tags": [
+          "শিক্ষা",
+          "পাঠ্যক্রম",
+          "প্রযুক্তি",
+          "বিদ্যালয়"
+        ],
+        "status": "published",
+        "is_featured": false,
+        "is_breaking": false,
+        "view_count": 5310,
+        "published_at": "2026-10-18T09:20:27.776Z",
+        "updated_at": "2026-10-18T14:20:27.776Z",
+        "created_at": "2026-10-18T08:50:27.776Z",
+        "seo_title": "জাতীয় শিক্ষাক্রমে প্রায়োগিক দক্ষতার যুগ | WVN News",
+        "seo_description": "শিক্ষার্থীদের প্রযুক্তি ও উদ্ভাবনী দক্ষতায় সমৃদ্ধ করতে আধুনিক শিক্ষাক্রম।"
+      },
+      {
+        "id": "art_8",
+        "title": "হৃদরোগ ও রক্তচাপ নিয়ন্ত্রণে খাদ্যাভ্যাস ও দৈনিক হাঁটার গুরুত্ব: বিশেষজ্ঞ চিকিৎসকদের পরামর্শ",
+        "slug": "heart-health-blood-pressure-diet-walking-expert-advice",
+        "subheadline": "অতিরিক্ত লবণ ও প্রক্রিয়াজাত খাবার পরিহারের মাধ্যমে ঝুঁকি কমানো সম্ভব",
+        "category_id": "cat_health",
+        "author_id": "auth_2",
+        "excerpt": "নগরাঞ্চলের মানুষের মধ্যে কম শারীরিক পরিশ্রম ও ফাস্টফুড গ্রহণের কারণে উচ্চ রক্তচাপের প্রাদুর্ভাব আশঙ্কাজনক হারে বাড়ছে। নিয়মিত ৩০ মিনিটের হাঁটা রক্ষা করতে পারে নীরব ঘাতক থেকে।",
+        "content": "জাতীয় হৃদরোগ ইনস্টিটিউটের এক সাম্প্রতিক প্রতিবেদনে উঠে এসেছে, ৩০ থেকে ৫০ বছর বয়সীদের মধ্যে হৃদরোগে আক্রান্ত হওয়ার হার বিগত এক দশকে প্রায় ২৫ শতাংশ বৃদ্ধি পেয়েছে।\n\nচিকিৎসকদের মতে, নিয়ন্ত্রিত খাদ্যাভ্যাস, ধূমপান বর্জন এবং প্রতিদিন অন্তত ৩০ মিনিট দ্রুত গতিতে হাঁটার অভ্যাস এই ঝুঁকি বহুলাংশে কমিয়ে দিতে পারে। বিশেষ করে মানসিক চাপ প্রশমিত করতে পর্যাপ্ত ঘুম ও মেডিটেশনের ওপর জোর দেওয়া হয়েছে।",
+        "featured_image": "https://images.unsplash.com/photo-1505751172876-fa1923c5c528?w=800&auto=format&fit=crop&q=80",
+        "image_caption": "চিকিৎসকদের নিয়মিত স্বাস্থ্য পরামর্শ ও শরীরচর্চার আহ্বান। ছবি: আনস্প্ল্যাশ",
+        "image_alt": "স্বাস্থ্য ও স্টেথোস্কোপ",
+        "tags": [
+          "স্বাস্থ্য",
+          "হৃদরোগ",
+          "চিকিৎসা",
+          "জীবনযাপন"
+        ],
+        "status": "published",
+        "is_featured": false,
+        "is_breaking": false,
+        "view_count": 8200,
+        "published_at": "2026-10-18T08:20:27.776Z",
+        "updated_at": "2026-10-18T13:50:27.776Z",
+        "created_at": "2026-10-18T08:00:27.776Z",
+        "seo_title": "হৃদরোগ প্রতিরোধে সুস্থ জীবনধারা | WVN News",
+        "seo_description": "উচ্চ রক্তচাপ ও হৃদরোগ নিয়ন্ত্রণে চিকিৎসকদের সময়োপযোগী পরামর্শ।"
+      }
+    ],
+    "categories": [
+      {
+        "id": "cat_all",
+        "name": "সর্বশেষ",
+        "slug": "latest",
+        "sort_order": 1,
+        "is_visible": true,
+        "created_at": "2026-01-01T00:00:00Z"
+      },
+      {
+        "id": "cat_national",
+        "name": "জাতীয়",
+        "slug": "national",
+        "description": "বাংলাদেশের জাতীয় গুরুত্বপূর্ণ সংবাদ ও নীতি নির্ধারণ",
+        "sort_order": 2,
+        "is_visible": true,
+        "created_at": "2026-01-01T00:00:00Z"
+      },
+      {
+        "id": "cat_politics",
+        "name": "রাজনীতি",
+        "slug": "politics",
+        "description": "রাজনৈতিক দল, সংসদীয় বিতর্ক ও নির্বাচন সংক্রান্ত সংবাদ",
+        "sort_order": 3,
+        "is_visible": true,
+        "created_at": "2026-01-01T00:00:00Z"
+      },
+      {
+        "id": "cat_country",
+        "name": "সারাদেশ",
+        "slug": "country",
+        "description": "বিভাগীয় শহর ও প্রত্যন্ত অঞ্চলের তৃণমূল সংবাদ",
+        "sort_order": 4,
+        "is_visible": true,
+        "created_at": "2026-01-01T00:00:00Z"
+      },
+      {
+        "id": "cat_international",
+        "name": "আন্তর্জাতিক",
+        "slug": "international",
+        "description": "বিশ্ব রাজনীতি, কূটনীতি ও বৈশ্বিক ঘটনাপ্রবাহ",
+        "sort_order": 5,
+        "is_visible": true,
+        "created_at": "2026-01-01T00:00:00Z"
+      },
+      {
+        "id": "cat_economy",
+        "name": "অর্থনীতি",
+        "slug": "economy",
+        "description": "বাজার দর, রফতানি আয়, রাজস্ব নীতি ও ব্যাংকিং সংবাদ",
+        "sort_order": 6,
+        "is_visible": true,
+        "created_at": "2026-01-01T00:00:00Z"
+      },
+      {
+        "id": "cat_sports",
+        "name": "খেলাধুলা",
+        "slug": "sports",
+        "description": "ক্রিকেট, ফুটবল, অলিম্পিক ও বিশ্ব ক্রীড়াঙ্গন",
+        "sort_order": 7,
+        "is_visible": true,
+        "created_at": "2026-01-01T00:00:00Z"
+      },
+      {
+        "id": "cat_entertainment",
+        "name": "বিনোদন",
+        "slug": "entertainment",
+        "description": "চলচ্চিত্র, নাটক, সঙ্গীত ও সাহিত্য অঙ্গন",
+        "sort_order": 8,
+        "is_visible": true,
+        "created_at": "2026-01-01T00:00:00Z"
+      },
+      {
+        "id": "cat_technology",
+        "name": "প্রযুক্তি",
+        "slug": "technology",
+        "description": "তথ্যপ্রযুক্তি, এআই, টেলিকম ও উদ্ভাবন",
+        "sort_order": 9,
+        "is_visible": true,
+        "created_at": "2026-01-01T00:00:00Z"
+      },
+      {
+        "id": "cat_education",
+        "name": "শিক্ষা",
+        "slug": "education",
+        "description": "বিশ্ববিদ্যালয়, গবেষণা ও শিক্ষাব্যবস্থা",
+        "sort_order": 10,
+        "is_visible": true,
+        "created_at": "2026-01-01T00:00:00Z"
+      },
+      {
+        "id": "cat_health",
+        "name": "স্বাস্থ্য",
+        "slug": "health",
+        "description": "জনস্বাস্থ্য, চিকিৎসা বিজ্ঞান ও পুষ্টি পরামর্শ",
+        "sort_order": 11,
+        "is_visible": true,
+        "created_at": "2026-01-01T00:00:00Z"
+      },
+      {
+        "id": "cat_lifestyle",
+        "name": "জীবনযাপন",
+        "slug": "lifestyle",
+        "description": "ভ্রমণ, ফ্যাশন, মানসিক প্রশান্তি ও জীবনশৈলী",
+        "sort_order": 12,
+        "is_visible": true,
+        "created_at": "2026-01-01T00:00:00Z"
+      },
+      {
+        "id": "cat_opinion",
+        "name": "মতামত",
+        "slug": "opinion",
+        "description": "বিশিষ্ট বুদ্ধিজীবী ও গবেষকদের উপসম্পাদকীয়",
+        "sort_order": 13,
+        "is_visible": true,
+        "created_at": "2026-01-01T00:00:00Z"
+      }
+    ],
+    "authors": [
+      {
+        "id": "auth_1",
+        "name": "আলী নেছারাবাদ (Super Admin)",
+        "email": "aly.nesarabad@gmail.com",
+        "role": "super_admin",
+        "avatar_url": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=150&auto=format&fit=crop&q=80",
+        "bio": "প্রধান সম্পাদক, ডব্লিউভিএন নিউজ। সাংবাদিকতায় দুই দশকেরও বেশি সময় ধরে তথ্যনিষ্ঠ ও অনুসন্ধানী প্রতিবেদন প্রকাশে নিয়োজিত।"
+      },
+      {
+        "id": "auth_2",
+        "name": "ফারহানা হক",
+        "email": "editor@wvnnews.com",
+        "role": "editor",
+        "avatar_url": "https://images.unsplash.com/photo-1573496359142-b8d87734a5a2?w=150&auto=format&fit=crop&q=80",
+        "bio": "সিনিয়র সম্পাদক ও আন্তর্জাতিক বিষয়ক বিশ্লেষক। ভূরাজনীতি এবং দক্ষিণ এশীয় পররাষ্ট্রনীতির পর্যবেক্ষক।"
+      },
+      {
+        "id": "auth_3",
+        "name": "তানভীর রহমান",
+        "email": "reporter@wvnnews.com",
+        "role": "reporter",
+        "avatar_url": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&auto=format&fit=crop&q=80",
+        "bio": "বিশেষ ক্রীড়া ও প্রযুক্তি প্রতিবেদক। আন্তর্জাতিক টুর্নামেন্ট ও প্রযুক্তিগত অগ্রগতির নিয়মিত কলাম লেখক।"
+      }
+    ],
+    "breaking_news": [
+      {
+        "id": "brk_1",
+        "headline": "ঢাকা নগরীর স্মার্ট যোগাযোগ নেটওয়ার্কে নতুন মেট্রোরেল ও এক্সপ্রেসওয়ে রুট আনুষ্ঠানিকভাবে অনুমোদিত",
+        "linked_article_id": "art_1",
+        "priority": 5,
+        "is_active": true,
+        "created_at": "2026-10-18T16:20:27.776Z"
+      },
+      {
+        "id": "brk_2",
+        "headline": "মিরপুরে শ্বাসরুদ্ধকর শেষ ওভারে ৪ উইকেটে টি-টোয়েন্টি সিরিজ জয় নিশ্চিত করল বাংলাদেশ টাইগাররা",
+        "linked_article_id": "art_3",
+        "priority": 4,
+        "is_active": true,
+        "created_at": "2026-10-18T16:20:27.776Z"
+      },
+      {
+        "id": "brk_3",
+        "headline": "বিশ্ববাজারে অপরিশোধিত জ্বালানি তেলের মূল্য সর্বনিম্ন স্তরে, দেশে নতুন মূল্য সমন্বয়ের আভাস",
+        "linked_article_id": "art_5",
+        "priority": 3,
+        "is_active": true,
+        "created_at": "2026-10-18T16:20:27.776Z"
+      }
+    ],
+    "advertisements": [
+      {
+        "id": "ad_header",
+        "title": "শীর্ষ ব্যানার (Header Leaderboard)",
+        "format": "banner",
+        "position": "header",
+        "banner_size": "728x90",
+        "zone_id": "ad_zone_header_728",
+        "script_code": "<!-- Adsterra Header Banner 728x90 -->\n<div class=\"adsterra-banner-header flex items-center justify-center p-2 bg-slate-100 border border-dashed border-slate-300 rounded text-xs text-slate-500 min-h-[90px]\">\n  <div class=\"text-center\">\n    <span class=\"block font-semibold text-slate-700\">WVN NEWS বিজ্ঞাপন স্পট (৭২৮x৯০)</span>\n    <span class=\"text-[11px] text-slate-400\">Adsterra Zone ID: ad_zone_header_728 · Responsive Banner</span>\n  </div>\n</div>",
+        "is_enabled": true,
+        "target_pages": [
+          "all"
+        ],
+        "device_target": "all",
+        "created_at": "2026-01-01T00:00:00Z"
+      },
+      {
+        "id": "ad_homepage_content",
+        "title": "মূল পাতা মধ্যবর্তী ব্যানার (Content In-Feed)",
+        "format": "banner",
+        "position": "homepage_content",
+        "banner_size": "728x90",
+        "zone_id": "ad_zone_content_feed",
+        "script_code": "<!-- Adsterra Content Banner -->\n<div class=\"adsterra-banner-content flex items-center justify-center p-3 bg-amber-50 border border-dashed border-amber-200 rounded text-xs text-amber-800 min-h-[90px]\">\n  <div class=\"text-center\">\n    <span class=\"block font-semibold\">বিজ্ঞাপন অংশীদার (Sponsored Partner)</span>\n    <span class=\"text-[11px] text-amber-600\">শীর্ষ স্থানীয় দেশীয় ব্র্যান্ড ও সেবাসমূহ · WVN Verified</span>\n  </div>\n</div>",
+        "is_enabled": true,
+        "target_pages": [
+          "homepage"
+        ],
+        "device_target": "all",
+        "created_at": "2026-01-01T00:00:00Z"
+      },
+      {
+        "id": "ad_article_body",
+        "title": "সংবাদ অনুচ্ছেদ ব্যানার (Article Body Inline)",
+        "format": "banner",
+        "position": "article_body",
+        "banner_size": "300x250",
+        "zone_id": "ad_zone_article_inline_300",
+        "script_code": "<!-- Adsterra Article Inline 300x250 -->\n<div class=\"adsterra-banner-inline flex items-center justify-center p-4 bg-slate-50 border border-slate-200 rounded text-xs text-slate-500 my-4 min-h-[140px]\">\n  <div class=\"text-center\">\n    <span class=\"block font-medium text-slate-700\">বিজ্ঞাপন (Adsterra Zone: 300x250)</span>\n    <span class=\"text-[10px] text-slate-400\">পাঠকের সুবিধার জন্য পরিচ্ছন্ন ও মানসম্মত ডিসপ্লে</span>\n  </div>\n</div>",
+        "is_enabled": true,
+        "target_pages": [
+          "article"
+        ],
+        "device_target": "all",
+        "created_at": "2026-01-01T00:00:00Z"
+      },
+      {
+        "id": "ad_article_footer",
+        "title": "সংবাদ সমাপ্তি ব্যানার (Article Footer)",
+        "format": "banner",
+        "position": "article_footer",
+        "banner_size": "728x90",
+        "zone_id": "ad_zone_article_footer",
+        "script_code": "<!-- Adsterra Article Footer Banner -->\n<div class=\"adsterra-banner-article-footer flex items-center justify-center p-3 bg-slate-100 border border-slate-200 rounded text-xs text-slate-600 min-h-[90px]\">\n  <span class=\"font-medium\">বিজ্ঞাপন (৭২৮x৯০) · নিরাপদ ও যাচাইকৃত অংশীদার</span>\n</div>",
+        "is_enabled": true,
+        "target_pages": [
+          "article"
+        ],
+        "device_target": "all",
+        "created_at": "2026-01-01T00:00:00Z"
+      },
+      {
+        "id": "ad_sidebar",
+        "title": "ডান পাশের সাইডবার ব্যানার (Sidebar Rectangle)",
+        "format": "banner",
+        "position": "sidebar",
+        "banner_size": "300x250",
+        "zone_id": "ad_zone_sidebar_rect",
+        "script_code": "<!-- Adsterra Sidebar Banner 300x250 -->\n<div class=\"adsterra-banner-sidebar flex items-center justify-center p-4 bg-slate-50 border border-slate-200 rounded text-xs text-slate-600 min-h-[250px]\">\n  <div class=\"text-center\">\n    <span class=\"block font-bold text-slate-800 mb-1\">বিজ্ঞাপন স্পট (৩০০x২৫০)</span>\n    <span class=\"text-xs text-slate-500\">আপনার ব্র্যান্ড প্রচার করুন ডব্লিউভিএন নিউজে</span>\n  </div>\n</div>",
+        "is_enabled": true,
+        "target_pages": [
+          "all"
+        ],
+        "device_target": "desktop",
+        "created_at": "2026-01-01T00:00:00Z"
+      },
+      {
+        "id": "ad_popunder",
+        "title": "Adsterra Popunder Ad",
+        "format": "popunder",
+        "zone_id": "adsterra_zone_popunder_main",
+        "script_code": "// Adsterra Popunder Script Integration Template\n// Place your verified publisher tag here\n// e.g. //pl12345678.highperformancegate.com/xx/xx/xx.js",
+        "is_enabled": false,
+        "target_pages": [
+          "homepage",
+          "article"
+        ],
+        "device_target": "all",
+        "created_at": "2026-01-01T00:00:00Z"
+      },
+      {
+        "id": "ad_social_bar",
+        "title": "Adsterra Social Bar",
+        "format": "social_bar",
+        "zone_id": "adsterra_zone_social_bar_sticky",
+        "script_code": "// Adsterra Social Bar Web Push / In-page Push\n// Script URL or zone loader",
+        "is_enabled": false,
+        "target_pages": [
+          "all"
+        ],
+        "device_target": "all",
+        "created_at": "2026-01-01T00:00:00Z"
+      }
+    ],
+    "site_settings": {
+      "brand_name": "WVN News",
+      "brand_display": "WVN NEWS",
+      "tagline": "সত্যের সাথে, সংবাদের পথে",
+      "primary_color": "#101828",
+      "breaking_accent": "#D71920",
+      "contact_email": "editor@wvnnews.com",
+      "phone": "+৮৮০ ২ ৯৫৫৬৬৭৭",
+      "address": "কাওরান বাজার, ঢাকা-১২১৫, বাংলাদেশ",
+      "facebook_url": "https://facebook.com/wvnnews",
+      "twitter_url": "https://twitter.com/wvnnews",
+      "youtube_url": "https://youtube.com/wvnnews",
+      "instagram_url": "https://instagram.com/wvnnews",
+      "whatsapp_number": "+8801700000000",
+      "e_paper_url": "https://epaper.wvnnews.com",
+      "default_seo_title": "WVN News – সত্যের সাথে, সংবাদের পথে | শীর্ষস্থানীয় ডিজিটাল সংবাদপত্র",
+      "default_seo_description": "বাংলাদেশ ও আন্তর্জাতিক সর্বশেষ নিরপেক্ষ সংবাদ, রাজনীতি, অর্থনীতি, বিজ্ঞান ও বিনোদনের বিশ্বস্ত মাধ্যম।",
+      "default_og_image": "/src/assets/images/wvn_news_hero_bangladesh_1792380945436.jpg",
+      "homepage_sections": [
+        {
+          "id": "sec_lead",
+          "title": "প্রধান সংবাদ ও শীর্ষ শিরোনাম",
+          "type": "lead_story",
+          "is_visible": true,
+          "sort_order": 1,
+          "display_count": 4
+        },
+        {
+          "id": "sec_national",
+          "category_id": "cat_national",
+          "title": "জাতীয় সংবাদ",
+          "type": "category_focus",
+          "is_visible": true,
+          "sort_order": 2,
+          "display_count": 4
+        },
+        {
+          "id": "sec_politics",
+          "category_id": "cat_politics",
+          "title": "রাজনীতি ও সংসদ",
+          "type": "category_focus",
+          "is_visible": true,
+          "sort_order": 3,
+          "display_count": 4
+        },
+        {
+          "id": "sec_sports",
+          "category_id": "cat_sports",
+          "title": "খেলাধুলা",
+          "type": "category_focus",
+          "is_visible": true,
+          "sort_order": 4,
+          "display_count": 4
+        },
+        {
+          "id": "sec_tech",
+          "category_id": "cat_technology",
+          "title": "তথ্যপ্রযুক্তি ও উদ্ভাবন",
+          "type": "category_focus",
+          "is_visible": true,
+          "sort_order": 5,
+          "display_count": 4
+        },
+        {
+          "id": "sec_economy",
+          "category_id": "cat_economy",
+          "title": "অর্থনীতি ও বাণিজ্য",
+          "type": "category_focus",
+          "is_visible": true,
+          "sort_order": 6,
+          "display_count": 4
+        }
+      ],
+      "updated_at": "2026-01-01T00:00:00Z"
+    },
+    "media": [
+      {
+        "id": "med_1",
+        "title": "ঢাকা আধুনিক এক্সপ্রেসওয়ে ও মেট্রোরেল",
+        "url": "/src/assets/images/wvn_news_hero_bangladesh_1792380945436.jpg",
+        "caption": "ঢাকা নগরীর স্মার্ট যোগাযোগ নেটওয়ার্ক",
+        "alt_text": "ঢাকা এক্সপ্রেসওয়ে ও ট্রেন",
+        "file_size": 420000,
+        "mime_type": "image/jpeg",
+        "created_at": "2026-01-01T00:00:00Z"
+      },
+      {
+        "id": "med_2",
+        "title": "জাতীয় সংসদ ভবন শের-ই-বাংলা নগর",
+        "url": "/src/assets/images/wvn_news_politics_dhaka_1792380945787.jpg",
+        "caption": "সংসদ ভবন ও লেক দৃশ্য",
+        "alt_text": "জাতীয় সংসদ ভবন ঢাকা",
+        "file_size": 380000,
+        "mime_type": "image/jpeg",
+        "created_at": "2026-01-01T00:00:00Z"
+      },
+      {
+        "id": "med_3",
+        "title": "মিরপুর শের-ই-বাংলা স্টেডিয়ামে ক্রিকেট ম্যাচ",
+        "url": "/src/assets/images/wvn_news_cricket_sports_1792380946607.jpg",
+        "caption": "টি-টোয়েন্টি টুর্নামেন্ট জয়",
+        "alt_text": "মিরপুর স্টেডিয়াম ক্রিকেট অ্যাকশন",
+        "file_size": 490000,
+        "mime_type": "image/jpeg",
+        "created_at": "2026-01-01T00:00:00Z"
+      },
+      {
+        "id": "med_4",
+        "title": "বাংলাদেশের সফটওয়্যার ও আইটি প্রকৌশলী দল",
+        "url": "/src/assets/images/wvn_news_tech_bangladesh_1792380946343.jpg",
+        "caption": "হাইটেক উদ্ভাবনী ল্যাব ঢাকা",
+        "alt_text": "সফটওয়্যার ডেভেলপার দল",
+        "file_size": 510000,
+        "mime_type": "image/jpeg",
+        "created_at": "2026-01-01T00:00:00Z"
+      }
+    ],
+    "editorial_activity_logs": [
+      {
+        "id": "log_1",
+        "actor_name": "শাকিল আহমেদ",
+        "actor_role": "super_admin",
+        "action": "publish",
+        "target_type": "article",
+        "target_id": "art_1",
+        "target_title": "ঢাকা নগরীর স্মার্ট যোগাযোগ নেটওয়ার্ক সম্প্রসারণ",
+        "created_at": "2026-10-18T15:35:27.776Z"
+      },
+      {
+        "id": "log_2",
+        "actor_name": "ফারহানা হক",
+        "actor_role": "editor",
+        "action": "publish",
+        "target_type": "article",
+        "target_id": "art_2",
+        "target_title": "জাতীয় সংসদে অর্থনৈতিক স্থিতিশীলতা ও সবুজ জ্বালানি বিল",
+        "created_at": "2026-10-18T14:30:27.776Z"
+      },
+      {
+        "id": "log_3",
+        "actor_name": "তানভীর রহমান",
+        "actor_role": "reporter",
+        "action": "publish",
+        "target_type": "article",
+        "target_id": "art_3",
+        "target_title": "মিরপুরে শ্বাসরুদ্ধকর শেষ ওভারে ঐতিহাসিক জয়",
+        "created_at": "2026-10-18T13:40:27.776Z"
+      }
+    ]
+  }
+}
